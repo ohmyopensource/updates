@@ -1,0 +1,20 @@
+# Editors
+.vscode/*
+.idea/
+*.swp
+*~
+
+# Operating systems
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Local tooling
+node_modules/
+_site/
+.env
+.env.*
+
+# Signing keys
+*.key
+*.pem
